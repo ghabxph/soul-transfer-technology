@@ -48,3 +48,8 @@ Through the study of the soul, science could potentially conquer death in the fu
 This idea is still fresh and keeps running in my head. It will be refined. No science has been done yet, but I envisioned the future where humans will become God by themselves. I envisioned a path of doing science on a topic that is only touched and discussed by religion.
 
 Even if this technology does not happen in my lifetime (but I think it will), I believe that this will be the future sooner or later.
+
+## PS
+
+I just named the repo 'soul-transfer-technology'. But just ignore it. The gateway of doing science on soul is through the idea of "Soul Transfer Technology". Haha.
+Cryogenic research is a lost hope. We shouldn't be focusing on reviving the dead. What we should focus on is how we can transfer our soul to other body (like human body, if technology permits). But the most feasible thing I can see is that we'll be transferring our minds to computers first before we can transfer soul to living human body.
